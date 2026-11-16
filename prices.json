@@ -1,0 +1,65 @@
+{
+  "source": "https://www.kitco.com/price/precious-metals",
+  "table": "World Spot Price",
+  "currency": "USD",
+  "unit": "troy oz",
+  "scraped_at_utc": "2026-11-16T10:08:12.425715+00:00",
+  "method": "http-text",
+  "data": [
+    {
+      "metal": "gold",
+      "quote_time_utc": "2026-11-16T10:06:00+00:00",
+      "quote_time_source": "Nov 16, 2026 05:06 EST",
+      "bid": 3856.7,
+      "ask": 3858.7,
+      "change": -26.7,
+      "change_pct": -0.69,
+      "low": 3832.2,
+      "high": 3902.3
+    },
+    {
+      "metal": "silver",
+      "quote_time_utc": "2026-11-16T10:06:00+00:00",
+      "quote_time_source": "Nov 16, 2026 05:06 EST",
+      "bid": 47.22,
+      "ask": 47.47,
+      "change": -1.412,
+      "change_pct": -2.9,
+      "low": 47.03,
+      "high": 49.18
+    },
+    {
+      "metal": "platinum",
+      "quote_time_utc": "2026-11-16T10:06:00+00:00",
+      "quote_time_source": "Nov 16, 2026 05:06 EST",
+      "bid": 1448.0,
+      "ask": 1458.0,
+      "change": -39.0,
+      "change_pct": -2.62,
+      "low": 1446.0,
+      "high": 1508.0
+    },
+    {
+      "metal": "palladium",
+      "quote_time_utc": "2026-11-16T10:06:00+00:00",
+      "quote_time_source": "Nov 16, 2026 05:06 EST",
+      "bid": 965.0,
+      "ask": 1005.0,
+      "change": -17.0,
+      "change_pct": -1.73,
+      "low": 957.0,
+      "high": 1031.0
+    },
+    {
+      "metal": "rhodium",
+      "quote_time_utc": "2026-11-15T23:00:00+00:00",
+      "quote_time_source": "Nov 15, 2026 18:00 EST",
+      "bid": 8275.0,
+      "ask": 9275.0,
+      "change": null,
+      "change_pct": 0.0,
+      "low": 7200.0,
+      "high": 10600.0
+    }
+  ]
+}
